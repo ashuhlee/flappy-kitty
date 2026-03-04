@@ -24,7 +24,7 @@ To try out the game for yourself, downloadthe latest release for your platform f
 1. Clone this repository:
 ```zsh
 git clone https://github.com/ashuhlee/flappy-kitty.git
-cd flappy-kitty
+cd flappy-kitty/src
 ```
 2. Run the app:
 ```zsh
@@ -41,6 +41,7 @@ love .
 Background music - Pecan Pie from [Uppbeat](https://uppbeat.io/t/pecan-pie/boogie)<br>
 Sound effects - Pixabay <br>
 Pipes - Goodgis
+
 
 
 
