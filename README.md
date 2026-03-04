@@ -4,8 +4,8 @@ A simple Flappy Bird clone, but it's a cat 🐾 features randomly generated pipe
 Made with Lua and Love2D
 
 <div align=center>
-  <img width="360" alt="flappy_kitty" src="https://github.com/user-attachments/assets/31a46b57-207c-4c3d-a12f-48b5d87fdb29" />
-  <img width="360" alt="flappy_kitty" src="https://github.com/user-attachments/assets/d6db4997-ea70-4a25-b8ea-57c0d89027c1" />
+  <img width="400" alt="flappy_kitty" src="https://github.com/user-attachments/assets/31a46b57-207c-4c3d-a12f-48b5d87fdb29" />
+  <img width="400" alt="flappy_kitty" src="https://github.com/user-attachments/assets/d6db4997-ea70-4a25-b8ea-57c0d89027c1" />
 </div>
 
 ### How to Play
@@ -31,3 +31,4 @@ love .
 ### Assets
 Background music - Pecan Pie from [Uppbeat](https://uppbeat.io/t/pecan-pie/boogie)<br>
 Pipes - Goodgis
+
