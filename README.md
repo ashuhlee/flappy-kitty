@@ -9,12 +9,13 @@ Made with Lua and Love2D
 </div>
   
 ## Installation
-To try out the game for yourself, downloadthe latest release for your platform from the [releases page](https://github.com/ashuhlee/flappy-kitty/releases/tag/1.0.0).
-#### Windows
-[FlappyKitty-1.0.0-win32.zip](https://github.com/ashuhlee/flappy-kitty/releases/tag/1.0.0) <br>
-[FlappyKitty-1.0.0-win64.zip](https://github.com/ashuhlee/flappy-kitty/releases/tag/1.0.0)
-#### macOS
-[FlappyKitty-1.0.0-mac.dmg](https://github.com/ashuhlee/flappy-kitty/releases/tag/1.0.0)
+To try out the game for yourself, downloadthe latest release for your platform from the [releases page](https://github.com/ashuhlee/flappy-kitty/releases/tag/1.0.0), or via the links below:
+
+| Platform | File |
+|----------|------|
+| Windows (32-bit) | [FlappyKitty-1.0.0-win32.zip](https://github.com/ashuhlee/flappy-kitty/releases/download/1.0.0/FlappyKitty-1.0.0-win32.zip) |
+| Windows (64-bit) | [FlappyKitty-1.0.0-win64.zip](https://github.com/ashuhlee/flappy-kitty/releases/download/1.0.0/FlappyKitty-1.0.0-win64.zip) |
+| macOS | [FlappyKitty-1.0.0-mac.dmg](https://github.com/ashuhlee/flappy-kitty/releases/download/1.0.0/FlappyKitty-1.0.0-mac.dmg) |
 
 ### Build from Source
 #### Requirements
@@ -40,5 +41,6 @@ love .
 Background music - Pecan Pie from [Uppbeat](https://uppbeat.io/t/pecan-pie/boogie)<br>
 Sound effects - Pixabay <br>
 Pipes - Goodgis
+
 
 
